@@ -1,0 +1,926 @@
+﻿<html lang="en">
+<head>
+<!-- viewport meta to reset iPhone inital scale -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- IE compatibility mode fix and ChromeFrame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<!-- Skype Fix -->
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+
+<!-- Start Stylesheet -->
+<link href="compiled.css?2020916114158" rel="stylesheet">
+
+<!-- Fancybox CSS -->
+<link rel="stylesheet" type="text/css" href="/images/galleries/style/jquery/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+
+<!-- Google Fonts -->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300" rel="stylesheet" type="text/css">
+
+<!--[if lt IE 9]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]-->
+
+<!-- css3-mediaqueries.js for IE8 or older -->
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+
+<!--[if lt IE 7]>
+<script defer type="text/javascript" src="http://www.mathsdaq.com/pngfix.js"></script>
+<![endif]-->
+
+<title>
+Tampa, FL Tax Firm | Newsletter Page | Mathsdaq, Accountant
+</title>
+
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+
+<meta name="description" content="Take a look at our Newsletter page. Mathsdaq, Accountant is a full service tax, accounting and business consulting firm located in Tampa, FL.">
+<meta name="keywords" content="cpa, taxes, cpa firm, accounting firm, accountant, bookkeeping, tampa fl cpa, tampa fl taxes, quickbooks, quickbooks proadvisor, quickbooks accounting, quickbooks bookkeeping, quickbooks training, tax preparation, tax return, tax planning, tax services, government accounting, corporate taxes, partnership taxes, estate taxes, fiduciary taxes, individual taxes, sales tax, trust taxes, payroll taxes, pension taxes, bankruptcy taxation, back tax returns, tax organizer, business license, personal property tax return, recordkeeping, financial statements, compilation reports">
+
+<!-- jQuery -->
+<script type="text/javascript" async="" defer="" src="https://analytics.mathsdaq.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/images/galleries/style/jquery/jquery.js">
+</script>
+
+<style>
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+</style>
+<script language="javascript">
+function hideEmail (emailuser, emaildomain) {
+    window.location="mailto:" + emailuser + "@" +emaildomain;
+}
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52703440-1', 'auto');
+  ga('send', 'pageview');
+
+</script> 
+</head>
+
+<body>
+	<a id="top" name="top"></a>
+	<div id="styleIeBkgContainer">
+		<div id="styleIeGlowContainer">
+	    	<img src="/images/galleries/style/527/images/bkg-arch.png" id="styleArch">
+			<div id="stylePageContainer">
+				<div id="styleHeader">
+		        	<a href="index.php" id="styleLogo">
+<img src="http://cp7.mathsdaq.com/~tampaflta/images/tampafltaxes_logo(1).png" alt="Tampa, FL Tax Firm | Newsletter Page | Mathsdaq, Accountant" border="0">
+		            </a>
+		            <div id="styleLinks">
+		            	<a href="contact.php" class="contact">
+	                        Contact    	
+	                    </a>
+	                    <a href="lb-portal.php" class="portal fancybox">
+	                        Portal Login    	
+	                    </a>
+	                    <a href="lb-subscribe.php" class="subscribe fancybox">
+	                        Subscribe    	
+	                    </a>
+	                    <div class="clearfloat">
+	                    </div>
+	                    <a href="tel:+727-560-9040" class="phone">
+	                        727-560-9040    	
+	                    </a>
+		            </div><!-- End styleLinks -->
+		            <div class="clearfloat"> 
+		            </div>     	
+		      	</div><!-- End styleHeader -->
+		        <div id="stylePage">
+		        	<!-- Start Navbar -->
+<div id="nav-menu" class="moomenu">
+	<ul class="menu sf-js-enabled sf-shadow" id="nav" style="display: block;">
+				<li id="page_1271" class="">
+					<span class="top">
+						<span class="leftBG"></span>
+						<a class="" href="/index.php" target="_top">Home</a>
+						<span class="rightBG"></span>
+						<span class="selector"></span>
+					</span>
+				</li>
+			<li id="page_1214" class="parent">
+				<span class="topdaddy"><span class="leftBG"></span>
+<a class="topdaddy" href="/about.php" target="_top">About</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				<ul style="float: none; width: 14.3571em; display: none; visibility: hidden;">
+					<li id="page_1258" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/firmprofile.php" target="_top">About Our Firm</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+				<li id="page_1272" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/schedule.php" target="_top">2019 Individual Tax Fees</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1216" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/blog.php" target="_top">Blog</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+			</ul>
+				</li>			<li id="page_3" class="parent">
+				<span class="topdaddy"><span class="leftBG"></span>
+<a class="topdaddy" href="/services.php" target="_top">Services</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				<ul style="float: none; width: 15em; display: none; visibility: hidden;">
+					<li id="page_29" class="parent" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="daddy" href="/taxservices.php" target="_top">Tax Services</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					<ul style="left: 15em; float: none; width: 10.4286em; display: none; visibility: hidden;">
+						<li id="page_30" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxprep.php" target="_top">Tax Preparation</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+					<li id="page_31" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxplanning.php" target="_top">Tax Planning</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+					<li id="page_1221" class="parent" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="daddy" href="/irs-problemshome.php" target="_top">Tax Problems</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						<ul style="left: 10.4286em; float: none; width: 14.5714em; display: none; visibility: hidden;">
+							<li id="page_1225" class="" style="white-space: normal; float: none; width: 100%;">
+								<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-representation.php" target="_top">IRS Audit Representation</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+						<li id="page_1224" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-nonfiledreturns.php" target="_top">Non-Filed Tax Returns</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1226" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-backtaxes.php" target="_top">Back Taxes Owed</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1228" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-payrolltax.php" target="_top">Payroll Tax Problems</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1230" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-taxliens.php" target="_top">IRS Liens</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1232" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-taxlevies.php" target="_top">IRS Levies</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1234" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-garnishment.php" target="_top">IRS Wage Garnishment</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1236" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-taxseizures.php" target="_top">IRS Seizures</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1241" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-paymentplan.php" target="_top">IRS Payment Plan</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1266" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-offercompromise.php" target="_top">Offer In Compromise</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1243" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-taxbankruptcy.php" target="_top">Bankruptcy</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+				</ul>
+					</li>				</ul>
+					</li>				<li id="page_4" class="parent" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="daddy" href="/bizservices.php" target="_top">Business-Specific Services</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					<ul style="left: 15em; float: none; width: 17.5em; display: none; visibility: hidden;">
+						<li id="page_5" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/smallbiz.php" target="_top">Small Business Accounting</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+					<li id="page_14" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/payrollservice.php" target="_top">Payroll</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+					<li id="page_16" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/auditing.php" target="_top">Audits - Reviews - Compilations</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+					<li id="page_19" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/valuation.php" target="_top">Business Valuation</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+					<li id="page_20" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/bizplan.php" target="_top">Strategic Business Planning</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+					<li id="page_22" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/formation.php" target="_top">New Business Formation</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+				</ul>
+					</li>				<li id="page_6" class="parent" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="daddy" href="/qbmain.php" target="_top">QuickBooks Services</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					<ul style="left: 15em; float: none; width: 12.5714em; display: none; visibility: hidden;">
+						<li id="page_7" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/whyquickbooks.php" target="_top">Why QuickBooks</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+					<li id="page_8" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/quickbookssetup.php" target="_top">QuickBooks Setup</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+					<li id="page_9" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/qbtraining.php" target="_top">QuickBooks Training</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+			</ul>
+				</li>			</ul>
+				</li>			<li id="page_298" class="parent">
+				<span class="topdaddy"><span class="leftBG"></span>
+<a class="topdaddy" href="/taxcenter2.php" target="_top">Tax Center</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				<ul style="float: none; width: 17.5em; display: none; visibility: hidden;">
+					<li id="page_1161" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxrefunds.php" target="_top">Track Your Refund</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+				<li id="page_1162" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxduedates.php" target="_top">Tax Due Dates</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1163" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxrates2.php" target="_top">Tax Rates</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1164" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxpublications.php" target="_top">IRS Tax Forms and Publications</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1166" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxretention.php" target="_top">Record Retention Guide</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1167" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/statetaxforms.php" target="_top">State Tax Forms</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1168" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/calcloader.php?calc=inc12" target="_blank">1040 Tax Calculator</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+			</ul>
+				</li>			<li id="page_161" class="">
+				<span class="top"><span class="leftBG"></span>
+<a class="" href="/calc-section.php" target="_top">Calculators</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				</li>
+
+			<li id="page_280" class="active">
+				<span class="topdaddy"><span class="leftBG"></span>
+<a class="topdaddy" href="/newsletter.php" target="_top">Newsletter</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				<ul style="float: none; width: 14.2857em; display: none; visibility: hidden;">
+					<li id="page_281" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/newsletter.php" target="_top">This Month's Newsletter</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+				<li id="page_284" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/archive.php" target="_top">Previous Newsletters</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+			</ul>
+				</li>			<li id="page_942" class="parent">
+				<span class="topdaddy"><span class="leftBG"></span>
+<a class="topdaddy" href="/reports.php" target="_top">Guides</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				<ul style="float: none; width: 19.3571em; display: none; visibility: hidden;">
+					<li id="page_1151" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/life-events.php" target="_top">Life Events</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+				<li id="page_1153" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/business-strategies.php" target="_top">Business Strategies</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1155" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/investment-strategies.php" target="_top">Investment Strategies</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1156" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxstrategies-businessowners.php" target="_top">Tax Strategies for Business Owners</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1154" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxstrategies-individuals.php" target="_top">Tax Strategies for Individuals</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1159" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/frequently-asked-questions.php" target="_top">Frequently Asked Questions</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+			</ul>
+				</li>			<li id="page_1273" class="">
+				<span class="top"><span class="leftBG"></span>
+<a class="" href="/quick-send.php" target="_top">SecureSend</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				</li>
+
+			<li id="page_444" class="">
+				<span class="top"><span class="leftBG"></span>
+<a class="" href="/contact.php" target="_top">Contact</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				</li>
+
+			<li id="page_1276" class="">
+				<span class="top"><span class="leftBG"></span>
+<a class="" href="/BookkeepingServices.php" target="_top">Bookkeeping Services</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				</li>
+
+			<li id="page_1277" class="">
+				<span class="top"><span class="leftBG"></span>
+<a class="" href="/socialmedia.php" target="_top">Social Media</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				</li>
+
+	</ul>
+<select><option selected="selected" value="">Go to...</option><option value="/index.php">Home</option><option value="/about.php">About</option><option value="/firmprofile.php">About Our Firm</option><option value="/schedule.php">2019 Individual Tax Fees</option><option value="/blog.php">Blog</option><option value="/services.php">Services</option><option value="/taxservices.php">Tax Services</option><option value="/taxprep.php">Tax Preparation</option><option value="/taxplanning.php">Tax Planning</option><option value="/irs-problemshome.php">Tax Problems</option><option value="/irs-representation.php">IRS Audit Representation</option><option value="/irs-nonfiledreturns.php">Non-Filed Tax Returns</option><option value="/irs-backtaxes.php">Back Taxes Owed</option><option value="/irs-payrolltax.php">Payroll Tax Problems</option><option value="/irs-taxliens.php">IRS Liens</option><option value="/irs-taxlevies.php">IRS Levies</option><option value="/irs-garnishment.php">IRS Wage Garnishment</option><option value="/irs-taxseizures.php">IRS Seizures</option><option value="/irs-paymentplan.php">IRS Payment Plan</option><option value="/irs-offercompromise.php">Offer In Compromise</option><option value="/irs-taxbankruptcy.php">Bankruptcy</option><option value="/bizservices.php">Business-Specific Services</option><option value="/smallbiz.php">Small Business Accounting</option><option value="/payrollservice.php">Payroll</option><option value="/auditing.php">Audits - Reviews - Compilations</option><option value="/valuation.php">Business Valuation</option><option value="/bizplan.php">Strategic Business Planning</option><option value="/formation.php">New Business Formation</option><option value="/qbmain.php">QuickBooks Services</option><option value="/whyquickbooks.php">Why QuickBooks</option><option value="/quickbookssetup.php">QuickBooks Setup</option><option value="/qbtraining.php">QuickBooks Training</option><option value="/taxcenter2.php">Tax Center</option><option value="/taxrefunds.php">Track Your Refund</option><option value="/taxduedates.php">Tax Due Dates</option><option value="/taxrates2.php">Tax Rates</option><option value="/taxpublications.php">IRS Tax Forms and Publications</option><option value="/taxretention.php">Record Retention Guide</option><option value="/statetaxforms.php">State Tax Forms</option><option value="/calcloader.php?calc=inc12">1040 Tax Calculator</option><option value="/calc-section.php">Calculators</option><option value="/newsletter.php">Newsletter</option><option value="/newsletter.php">This Month's Newsletter</option><option value="/archive.php">Previous Newsletters</option><option value="/reports.php">Guides</option><option value="/life-events.php">Life Events</option><option value="/business-strategies.php">Business Strategies</option><option value="/investment-strategies.php">Investment Strategies</option><option value="/taxstrategies-businessowners.php">Tax Strategies for Business Owners</option><option value="/taxstrategies-individuals.php">Tax Strategies for Individuals</option><option value="/frequently-asked-questions.php">Frequently Asked Questions</option><option value="/quick-send.php">SecureSend</option><option value="/contact.php">Contact</option><option value="/BookkeepingServices.php">Bookkeeping Services</option><option value="/socialmedia.php">Social Media</option></select></div>
+
+		        	</div>
+		        	<div id="stylePage">
+		        	<div id="styleFeature" class="internal">
+		        	</div>
+		            <div id="styleFeature">
+		            	<!--<div class="fade">
+		                </div>-->
+		                <!--<div id="clientPhoto">
+		                	<img src="/images/galleries/style/527/images/client-photo.jpg" />
+		                </div>-->
+		                <!--<div class="tagline">
+		                	<h1>Hi, I'm  </h1>
+		                	<h2>With over 12 years experience, I can help you with all your accounting needs.</h2>
+		                </div>-->
+		            </div>
+		            <div id="styleContent">
+		            	<h1 id="styleTitle">Newsletter</h1>
+		            	<center>
+<table border="0" cellpadding="0" cellspacing="0" width="80%" align="center">
+<tbody><tr>
+  <td>
+
+<!-- Start DIV: Header -->
+<div id="Header" style="text-align: left;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2" width="85"><link href="/images/galleries/header/css/outline.css" rel="stylesheet"><div class="shadows"><div class="globalItem"><img src="/images/galleries/header/css/shadows.png" alt="Newsletter" width="100" align="left" border="0" height="96"><div class="inner-shadows"><img src="/images/galleries/header/square/News/desk04_isp.png" width="78" align="left" border="0" height="78"></div></div></div></td> <td valign="bottom"><h1>Newsletter</h1></td></tr><tr><td style="padding-top: 2px;" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" height="2"><tbody><tr><td class="cellcolor" width="100%"><img src="/images/galleries/header/hrshade.png" width="100%" height="2"></td></tr></tbody></table></td></tr></tbody></table>
+<br>
+Our regularly updated newsletter provides timely articles to help you achieve your financial goals. Please come back and visit often.
+<br><br>
+</div>
+
+<style type="text/css" media="all">/* Newsletter CSS */.intable td {font-size: 10pt;}#Newsletter .headline {margin-top:0;padding-bottom:5px;}#Newsletter .tip {background: url(https://www.cpasitesolutions.com/content/newsletter/images/icon-tip.png) top left no-repeat;padding-left: 65px;min-height: 60px;}#Newsletter .note {background: url(https://www.cpasitesolutions.com/content/newsletter/images/icon-note.png) top left no-repeat;padding-left: 65px;min-height: 60px;}#Newsletter .example {background: url(https://www.cpasitesolutions.com/content/newsletter/images/icon-example.png) top left no-repeat;padding-left: 65px;min-height: 60px;}#Newsletter .caution {background: url(https://www.cpasitesolutions.com/content/newsletter/images/icon-caution.png) top left no-repeat;padding-left: 65px;min-height: 60px;}#Newsletter .calculator {background: url(https://www.cpasitesolutions.com/content/newsletter/images/icon-calculators.png) top left no-repeat;padding-left: 65px;min-height: 60px;}#Newsletter .rfg {background: url(https://www.cpasitesolutions.com/content/newsletter/images/icon-fg.png) top left no-repeat;padding-left: 65px;min-height: 50px;}/* IE6 Specific */* html #Newsletter .tip {background: url(https://www.cpasitesolutions.com/content/newsletter/images/icon-tip.png) top left no-repeat;height: 60px;}* html #Newsletter .note {background: url(https://www.cpasitesolutions.com/content/newsletter/images/icon-note.png) top left no-repeat;height: 60px;}* html #Newsletter .example {background: url(https://www.cpasitesolutions.com/content/newsletter/images/icon-example.png) top left no-repeat;height: 60px;}* html #Newsletter .caution {background: url(https://www.cpasitesolutions.com/content/newsletter/images/icon-caution.png) top left no-repeat;height: 60px;}* html #Newsletter .calculator {background: url(https://www.cpasitesolutions.com/content/newsletter/images/icon-calculators.png) top left no-repeat;height: 60px;}* html #Newsletter .rfg {background: url(https://www.cpasitesolutions.com/content/newsletter/images/icon-fg.png) top left no-repeat;height: 50px;}</style><a name="top"></a><div id="Newsletter"><div id="printclear"><table width="100%" border="0" cellspacing="0" cellpadding="0" style="text-align: left;"><tbody><tr><td valign="top"><h2 class="hubtab vertgradient">September 2021</h2><div class="cellcolor headerline"></div><!-- Table to display articles' titles --><h3 style="margin-top:20px;">Feature Articles</h3><ul class="headline"><li><a href="#1">Tax Relief for Those Affected by Natural Disasters</a></li><li><a href="#2">What Is a Designated Roth Account?</a></li><li><a href="#3">Six Things To Know Before You Start a Business</a></li><li><a href="#4">Verifying Your Identity When Calling the IRS</a></li><li><a href="#5">Tax Rules for Divorce and Alimony Payments</a></li></ul><h3 style="margin-top:20px;">Tax Tips</h3><ul class="headline"><li><a href="#6">Extension Deadline Looming for 2020 Tax Returns</a></li><li><a href="#7">Reminder: Protect Yourself From Scammers</a></li><li><a href="#8">Gross Receipts Safe Harbor for Employers Claiming ERC</a></li><li><a href="#9">How To Get an Identity Protection Pin</a></li><li><a href="#10">Tax Planning: Facts About Credits and Deductions </a></li></ul></td><td style="border-right: 1px solid rgb(153, 153, 153);" valign="top" width="20">&nbsp;</td><td valign="top" width="220"><div style="margin-left: 20px;"><!-- Start Newsletter --><div style="width: 180px; margin: 0pt; padding: 8px; text-align: center;" class="cellcolor roundcorner" id="newspanel"><img src="https://www.cpasitesolutions.com/images/galleries/style/icons/new_mail-0056.png" alt="" style="padding-right: 4px;" align="absmiddle" height="32" width="32"><strong>Email Updates</strong><br>Enter your email below<br>to subscribe to our<br>monthly newsletter.<form method="post" action="https://www.cpaemailmarketing.com/client/campsub.php" style="margin: 0px; padding: 0px;"><input name="function" value="customer2" type="hidden"><input id="username" name="un" value="washdcta" type="hidden"><input id="username2" name="custom5" value="washdcta" type="hidden"><label for="email">Email</label><input name="email" id="email" value="E-Mail" onclick="clickclear(this, 'E-Mail', '000000')" onblur="clickrecall(this,'E-Mail', '000000')" type="text" style="width: 172px; margin-top: 5px;"><br><p style="margin: 0pt; padding: 0pt;"><input style="margin-top: 5px;" value="Subscribe" name="submit" type="submit"></p></form></div><!-- End Newsletter --><div id="rss_subscribe" align="center" style="margin: 33px 0pt;"><a href="rssfeed.php" style="font-size: 0.8em; text-decoration: none;"><img src="/images/galleries/Icons/feedIcon.png" alt="RSSFeed&quot;" border="0" height="42" width="42"><br>RSS Feed</a></div><div id="print_page" style="margin: 27px 0pt;"><p align="center"><a href="https://www.cpasitesolutions.com/content/newsletter/newsletter.php?print=washdcta&amp;date=" target="_blank" style="font-size: 0.8em; text-decoration: none;"><img alt="Printer-friendly version" src="https://www.cpasitesolutions.com/images/galleries/style/newsletter/images/printer.png" border="0" height="51" width="45"><br>Print This Page</a></p></div><!-- Tax Due Date Calendar --><p align="center"><style>
+/* CALENDAR */
+#newscal {
+font-size:12px !important;
+padding-top:5px;
+}
+#newscal #cal1 {
+width: 100% !important;
+}
+/* FONT COLOR */
+#newscal .yui-skin-sam .yui-calendar td.calcell a {
+color:#8ea3b4 !important;
+}
+/* HIGHLIGHT COLOR */
+#newscal .yui-skin-sam .yui-calendar td.calcell.selected a {
+background-color:#ffff99 !important;
+}
+/* HOVER COLOR */
+#newscal .yui-skin-sam .yui-calendar td.calcell.calcellhover,
+#newscal .yui-skin-sam .yui-calendar td.calcell.calcellhover a,
+#newscal .yui-skin-sam .yui-calcontainer .yui-cal-nav .yui-cal-nav-btn.yui-default {
+background-color:#8ea3b4 !important;
+color:#ffffff !important;
+}
+#newscal .yui-calcontainer {
+float:none;
+margin:0 auto;
+}
+#newscal .yui-skin-sam .yui-calendar td.calcell a {
+background:#fff !important;
+}
+#newscal .yui-skin-sam .yui-calendar .calnavleft {
+left:0;
+}
+#newscal .yui-skin-sam .yui-calendar .calnavright {
+right:0;
+}
+</style>
+</p><div id="newscal" class="cellcolor roundcorner">
+	<link rel="stylesheet" href="/images/galleries/style/calendar/calendar.css" type="text/css">
+	<div id="cal1Container" class="yui-skin-sam yui-calcontainer single"><table cellspacing="0" class="yui-calendar y2021" id="cal1">
+<thead>
+<tr>
+<th colspan="7" class="calhead">
+<div class="calheader">
+<a class="calnavleft" href="#">Previous Month (August 2021)</a>
+September 2021
+<a class="calnavright" href="#">Next Month (October 2021)</a>
+</div>
+</th>
+</tr>
+<tr class="calweekdayrow">
+<th class="calweekdaycell">Su</th>
+<th class="calweekdaycell">Mo</th>
+<th class="calweekdaycell">Tu</th>
+<th class="calweekdaycell">We</th>
+<th class="calweekdaycell">Th</th>
+<th class="calweekdaycell">Fr</th>
+<th class="calweekdaycell">Sa</th>
+</tr>
+</thead>
+<tbody class="m9 calbody">
+<tr class="w36">
+<td class="calcell oom calcelltop calcellleft" id="cal1_cell0">29</td>
+<td class="calcell oom calcelltop" id="cal1_cell1">30</td>
+<td class="calcell oom calcelltop" id="cal1_cell2">31</td>
+<td class="calcell wd3 d1 selectable calcelltop" id="cal1_cell3"><a href="#" class="selector">1</a></td>
+<td class="calcell wd4 d2 selectable calcelltop" id="cal1_cell4"><a href="#" class="selector">2</a></td>
+<td class="calcell wd5 d3 selectable calcelltop" id="cal1_cell5"><a href="#" class="selector">3</a></td>
+<td class="calcell wd6 d4 today selectable calcelltop calcellright" id="cal1_cell6"><a href="#" class="selector">4</a></td>
+</tr>
+<tr class="w37">
+<td class="calcell wd0 d5 selectable calcellleft" id="cal1_cell7"><a href="#" class="selector">5</a></td>
+<td class="calcell wd1 d6 selectable" id="cal1_cell8"><a href="#" class="selector">6</a></td>
+<td class="calcell wd2 d7 selectable" id="cal1_cell9"><a href="#" class="selector">7</a></td>
+<td class="calcell wd3 d8 selectable" id="cal1_cell10"><a href="#" class="selector">8</a></td>
+<td class="calcell wd4 d9 selectable" id="cal1_cell11"><a href="#" class="selector">9</a></td>
+<td class="calcell wd5 d10 highlight2 selectable" id="cal1_cell12"><a href="#" class="selector">10</a></td>
+<td class="calcell wd6 d11 selectable calcellright" id="cal1_cell13"><a href="#" class="selector">11</a></td>
+</tr>
+<tr class="w38">
+<td class="calcell wd0 d12 selectable calcellleft" id="cal1_cell14"><a href="#" class="selector">12</a></td>
+<td class="calcell wd1 d13 selectable" id="cal1_cell15"><a href="#" class="selector">13</a></td>
+<td class="calcell wd2 d14 selectable" id="cal1_cell16"><a href="#" class="selector">14</a></td>
+<td class="calcell wd3 d15 highlight2 selectable" id="cal1_cell17"><a href="#" class="selector">15</a></td>
+<td class="calcell wd4 d16 selectable" id="cal1_cell18"><a href="#" class="selector">16</a></td>
+<td class="calcell wd5 d17 selectable" id="cal1_cell19"><a href="#" class="selector">17</a></td>
+<td class="calcell wd6 d18 selectable calcellright" id="cal1_cell20"><a href="#" class="selector">18</a></td>
+</tr>
+<tr class="w39">
+<td class="calcell wd0 d19 selectable calcellleft" id="cal1_cell21"><a href="#" class="selector">19</a></td>
+<td class="calcell wd1 d20 selectable" id="cal1_cell22"><a href="#" class="selector">20</a></td>
+<td class="calcell wd2 d21 selectable" id="cal1_cell23"><a href="#" class="selector">21</a></td>
+<td class="calcell wd3 d22 selectable" id="cal1_cell24"><a href="#" class="selector">22</a></td>
+<td class="calcell wd4 d23 selectable" id="cal1_cell25"><a href="#" class="selector">23</a></td>
+<td class="calcell wd5 d24 selectable" id="cal1_cell26"><a href="#" class="selector">24</a></td>
+<td class="calcell wd6 d25 selectable calcellright" id="cal1_cell27"><a href="#" class="selector">25</a></td>
+</tr>
+<tr class="w40">
+<td class="calcell wd0 d26 selectable calcellleft" id="cal1_cell28"><a href="#" class="selector">26</a></td>
+<td class="calcell wd1 d27 selectable" id="cal1_cell29"><a href="#" class="selector">27</a></td>
+<td class="calcell wd2 d28 selectable" id="cal1_cell30"><a href="#" class="selector">28</a></td>
+<td class="calcell wd3 d29 selectable" id="cal1_cell31"><a href="#" class="selector">29</a></td>
+<td class="calcell wd4 d30 selectable" id="cal1_cell32"><a href="#" class="selector">30</a></td>
+<td class="calcell oom" id="cal1_cell33">1</td>
+<td class="calcell oom calcellright" id="cal1_cell34">2</td>
+</tr>
+<tr class="w41">
+<td class="calcell oom calcellleft calcellbottom" id="cal1_cell35">3</td>
+<td class="calcell oom calcellbottom" id="cal1_cell36">4</td>
+<td class="calcell oom calcellbottom" id="cal1_cell37">5</td>
+<td class="calcell oom calcellbottom" id="cal1_cell38">6</td>
+<td class="calcell oom calcellbottom" id="cal1_cell39">7</td>
+<td class="calcell oom calcellbottom" id="cal1_cell40">8</td>
+<td class="calcell oom calcellright calcellbottom" id="cal1_cell41">9</td>
+</tr>
+</tbody>
+</table></div>
+		<br class="clearfloat">
+		<script type="text/javascript" src="/images/galleries/style/calendar/yahoo-dom-event.js"></script>
+		<script type="text/javascript" src="/images/galleries/style/calendar/calendar-min.js"></script> 
+		<script type="text/javascript"> 
+			YAHOO.namespace("example.calendar");
+		 
+			YAHOO.example.calendar.init = function() {
+				var eLog = YAHOO.util.Dom.get("evtentries");
+				var eCount = 1;
+					
+				function zeroFill(number,width)
+				{
+					width -= number.toString().length;
+					if (width > 0)
+					{
+						return new Array(width + (/\./.test(number) ? 2 : 1)).join('0') + number;
+					}
+					return number;
+				}		
+			 
+				function getTaxDates(taxMonth)
+				{
+					var xmlhttp;
+					var taxDateList = false;
+					if (window.XMLHttpRequest)
+					{// code for IE7+, Firefox, Chrome, Opera, Safari
+						xmlhttp=new XMLHttpRequest();
+					}
+					else
+					{// code for IE6, IE5
+						xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+					}
+					xmlhttp.onreadystatechange=function()
+					{
+						if (xmlhttp.readyState==4 && xmlhttp.status==200)
+						{
+							taxDateList = xmlhttp.responseText;
+						}
+					}
+					xmlhttp.open("GET","/taxcal/taxDueDates.php?taxMonth="+taxMonth,false);
+					xmlhttp.send(null);
+					return xmlhttp.responseText;
+				}
+				function getTaxInfo(taxDate)
+				{
+					var xmlhttp;
+					if (window.XMLHttpRequest)
+					{// code for IE7+, Firefox, Chrome, Opera, Safari
+						xmlhttp=new XMLHttpRequest();
+					}
+					else
+					{// code for IE6, IE5
+						xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+					}
+					xmlhttp.onreadystatechange=function()
+					{
+						if (xmlhttp.readyState==4 && xmlhttp.status==200)
+						{
+							taxInfoHTML = (xmlhttp.responseText);
+						}
+					}
+					xmlhttp.open("GET","/taxcal/taxDueDates.php?taxDate="+taxDate,false);
+					xmlhttp.send(null);
+					return xmlhttp.responseText;
+				}
+				function dateToLocaleString(dt, cal) {
+							var wStr = cal.cfg.getProperty("WEEKDAYS_LONG")[dt.getDay()];
+							var dStr = zeroFill(dt.getDate(),2);
+				//                	var mStr = cal.cfg.getProperty("MONTHS_LONG")[dt.getMonth()];
+							var mStr = zeroFill(dt.getMonth()+1,2);
+							var yStr = dt.getFullYear();
+							return (yStr + "-" + mStr + "-" + dStr);//format date 2001-01-01 for SQL
+				}
+			 
+				function mySelectHandler(type,args,obj) {
+					myWindow=window.open('','','width=400,height=400');
+					var selected = args[0];
+					var selDate = this.toDate(selected[0]);
+					var taxInfoHTML = getTaxInfo(dateToLocaleString(selDate, this));
+					myWindow.document.write(taxInfoHTML);
+				};
+			 
+				function myChangePageHandler(type,args,obj) {
+					thisMonth = this.cfg.getProperty("pagedate");
+					taxDateList = getTaxDates(thisMonth.getMonth()+1);
+					console.log(taxDateList);
+					YAHOO.example.calendar.cal1.addRenderer(taxDateList, YAHOO.example.calendar.cal1.renderCellStyleHighlight1);
+					YAHOO.example.calendar.cal1.render();
+				};
+
+				var d = new Date();
+				var taxMonth = d.getMonth()+1;
+				var taxDateList = getTaxDates(taxMonth);
+				YAHOO.example.calendar.cal1 = new YAHOO.widget.Calendar("cal1","cal1Container");
+		 
+				YAHOO.example.calendar.cal1.selectEvent.subscribe(mySelectHandler, YAHOO.example.calendar.cal1, true);
+				YAHOO.example.calendar.cal1.changePageEvent.subscribe(myChangePageHandler, YAHOO.example.calendar.cal1, true);
+				YAHOO.example.calendar.cal1.addRenderer(taxDateList, YAHOO.example.calendar.cal1.renderCellStyleHighlight2);
+				YAHOO.example.calendar.cal1.render();
+			}
+			 
+			YAHOO.util.Event.onDOMReady(YAHOO.example.calendar.init);
+		</script> 
+		<center><strong>Tax Due Dates</strong></center>
+</div>
+<p></p></div></td></tr></tbody></table><br><!-- Disclaimer --><div style="width:80%; padding:10px; background:#FFC; border-bottom:#FC0 3px solid; border-top:#FC0 3px solid; margin:0 auto; color: black;"><span class="disclaimer">Any accounting, business or tax advice contained in this communication, including attachments and enclosures, is not intended as a thorough, in-depth analysis of specific issues, nor a substitute for a formal opinion, nor is it sufficient to avoid tax-related penalties. If desired, we would be pleased to perform the requisite research and provide you with a detailed written analysis. Such an engagement may be the subject of a separate engagement letter that would define the scope and limits of the desired consultation services.</span></div><br><br></div><div style="text-align: left; width: 100%;"><a name="1"></a><h2 class="hubtab vertgradient">Tax Relief for Those Affected by Natural Disasters</h2><div class="cellcolor headerline"></div><p></p><p>Recovery efforts after natural disasters can be costly. With floods, tornadoes, hurricanes, earthquakes, and other natural disasters affecting so many people throughout the U.S. this year, many have been left wondering how they're going to pay for the cleanup or when their businesses will be able to reopen. The good news is that there is relief for taxpayers - but only if you meet certain conditions. Let's take a look: </p><h3> Tax Relief for Homeowners </h3><p>Fortunately, personal casualty losses are deductible on your tax return as long as the property is located in a Presidentially-declared disaster area as long as:</p><p><strong> 1. The loss was caused by a sudden, unexplained, or unusual event. </strong><br>Natural disasters such as flooding, hurricanes, tornadoes, and wildfires qualify as sudden, unexplained, or unusual events.</p><p><strong>2. The damages were not covered by insurance.</strong><br>You can only claim a deduction for casualty losses not covered or reimbursed by your insurance company. The catch here is that if you submit a claim to your insurance company late in the year, your claim could still be pending come tax time. If that happens, you can file an extension on your taxes. Please call if you need help filing an extension or have any questions about what losses you can deduct.</p><p><strong>3. Your losses were sufficient to overcome any reductions required by the IRS.</strong><br>The IRS requires several "reductions" to claim casualty losses on your tax forms. The first is that you must subtract $100 from the total loss amount for each casualty event. This is referred to as the $100 loss limit.</p><p>Second, you must reduce the amount by 10 percent of your adjusted gross income (AGI) or adjusted gross income from the total casualty losses for the year. For example, if your AGI is $25,000 and your insurance company paid for all of the losses you incurred due to flooding except $3,100, you would first subtract $100 and then reduce that amount by $2500. The amount you could deduct as a loss would be $500.</p><p></p><blockquote class="tip">Taxpayers claiming the disaster loss on a prior year's return should put the Disaster Designation in red ink at the top of the form. Doing so ensures the IRS can expedite the refund processing, waive the usual fees, and expedite requests for copies of previously filed tax returns for affected taxpayers who need them to apply for benefits or to file amended returns claiming casualty losses.<p></p></blockquote><h3>Tax Relief for Homeowners and Businesses</h3><p>The IRS often provides tax relief for those affected by natural disasters, such as the individuals and businesses impacted by Hurricane Ida in Louisiana. Tax relief for victims of Hurricane Ida includes postponing various tax filing and payment deadlines that occurred starting on August 26, 2021. As a result, affected individuals and businesses will have until January 3, 2022, to file returns and pay any taxes that were originally due during this period. </p><p>Individuals who had a valid extension to file their 2020 return due to run out on October 15, 2021, will now have until January 3, 2022, to file. However, taxpayers should be aware that because tax payments related to these 2020 returns were due on May 17, 2021, those payments are not eligible for this relief. </p><h3>Claiming Disaster-related Casualty Losses</h3><p>Affected taxpayers in a Presidential Disaster Area have the option of claiming disaster-related casualty losses on their federal income tax return for either this year or last year. Claiming the loss on an original (2021) or amended return for last year (2020) will get the taxpayer an earlier refund, but waiting to claim the loss on this year's return could result in a greater tax saving, depending on other income factors. If you choose to deduct losses on your 2020 tax return, you have one year from the due date of the tax return to file. </p><h3>Help is Just a Phone Call Away</h3><p>If you're confused about whether you qualify for tax relief after a recent natural disaster, please contact the office for assistance in figuring out the best way to handle casualty losses related to hurricanes and other natural disasters. </p><p></p><a href="#top"><img src="https://www.cpasitesolutions.com/content/newsletter/images/all_botnav_arrow_off.png" alt="Go to top" border="0" align="right"></a><br><br><a name="2"></a><h2 class="hubtab vertgradient">What Is a Designated Roth Account?</h2><div class="cellcolor headerline"></div><p></p><p>Many 401(k) plans allow taxpayers to make Roth contributions as long as the plan has a designated Roth account. Your plan may also allow you to transfer amounts to the designated Roth account in the plan or borrow money. </p><p></p><blockquote class="tip">Check with your employer to find out if your 401(k), 403(b) or 457 governmental plan has a designated Roth account and whether it allows in-plan Roth rollovers or loans.<p></p></blockquote><p>A designated Roth account allows you to:</p><ul><li>Make designated Roth contributions to the account; and</li><li>if the plan permits, rollover certain amounts in your other plan accounts to the Roth account.</li></ul><h3>Pre-tax Deferrals vs. After-tax Contributions</h3><p>Unlike pre-tax salary deferrals, which are not taxed when you contribute them to the plan, you have to pay taxes on any contribution you make to a designated Roth account. Any pre-tax salary deferrals and related earnings are taxable when you withdraw them from the plan. </p><p></p><blockquote class="caution">Your gross income for the year in which you make designated Roth contributions will be higher than if you had made only pre-tax salary deferrals.</blockquote><p></p><p>Roth contributions, however, are not taxed when you withdraw them from the plan. Earnings on Roth contributions are also not taxed when they are withdrawn from the plan if your withdrawal is a qualified distribution. A qualified distribution is a distribution that is made:</p><ul><li>At least 5 years after the first contribution to your Roth account; and</li><li>After you are age 59 1/2 or on account of you being disabled, or to your beneficiary after your death.</li></ul><h3>Maximum Contribution Amounts</h3><p><strong>Roth IRA.</strong> In 2021, the maximum contribution to a regular Roth IRA account is $6,000 ($7,000 if age 50 or older). Furthermore, contributions are limited by tax filing status and adjusted gross income.</p><p><strong>Designated Roth Account. </strong>In contrast, in 2021, the maximum contribution to a designated Roth account is $19,500 ($26,000 if age 50 or older), and contribution limits are not impacted by filing status or adjusted gross income. </p><h3>Questions?</h3><p>Depending on your particular tax situation, contributing to a designated Roth account could be a smart move. To learn more about whether you should take advantage of a designated Roth account, please call. </p><p></p><a href="#top"><img src="https://www.cpasitesolutions.com/content/newsletter/images/all_botnav_arrow_off.png" alt="Go to top" border="0" align="right"></a><br><br><a name="3"></a><h2 class="hubtab vertgradient">Six Things To Know Before You Start a Business</h2><div class="cellcolor headerline"></div><p></p><p>Starting your own business is an exciting prospect, but there is more to it than simply writing a business plan. Understanding the tax responsibilities of starting a business venture can save taxpayers money and help set them up for success. That's where a tax professional can help. Here is what you need to know before you start a new business: </p><h3>1. Deciding on a Business Entity</h3><p>The first decision you need to make is determining which business entity you will use because the type of business structure you choose determines what taxes you need to pay and how to pay them, as well as which income tax return you file. The most common types of business entities are:</p><ul><li>Sole proprietorship - An unincorporated business owned by an individual. There's no distinction between the taxpayer and their business.</li><li>Partnership - An unincorporated business with ownership shared between two or more people.</li><li>Corporation - Also known as a C corporation. It's a separate entity owned by shareholders.</li><li>S Corporation - A corporation that elects to pass corporate income, losses, deductions and credits through to the shareholders.</li><li>Limited Liability Company - A business structure allowed by state statute. </li></ul><h3>2. Obtaining an Employer Identification Number (EIN) </h3><p>Securing an Employer Identification Number (also known as a Federal Tax Identification Number) is the first thing you must do since many other forms require it. The IRS issues EINs to employers, sole proprietors, corporations, partnerships, nonprofit associations, trusts, estates, government agencies, certain individuals, and other business entities for tax filing and reporting purposes. </p><p>An EIN is used to identify a business. Most businesses need one of these numbers. A business with an EIN needs to keep the business mailing address, location, and responsible party up to date. IRS regulations require EIN holders to report changes in the responsible party within 60 days. They do this by completing Form 8822-B, <em>Change of Address or Responsible Party</em>, and mailing it to the address on the form.</p><p></p><blockquote class="note">Even if you already have an EIN as a sole proprietor, for example, if you start a new business with a different business entity, you will need to apply for a new EIN.</blockquote><p></p><p>The fastest way to apply for an EIN is online through the IRS website or telephone. Applying by fax and mail generally takes one to two weeks, and you can apply for one EIN per day. There is no cost to apply.</p><h3>3. Choosing a Tax Year</h3><p>A tax year is defined as an annual accounting period for keeping records and reporting income and expenses. A new business owner must choose either calendar year or fiscal year defined as follows: </p><p><strong>Calendar year.</strong> 12 consecutive months beginning January 1 and ending December 31.</p><p><strong>Fiscal year.</strong> 12 consecutive months ending on the last day of any month except December.</p><h3>4. Understanding State Withholding, Unemployment, Sales, and Other Business Taxes</h3><p>Once you have your EIN, you need to fill out forms to establish an account with the state for payroll tax withholding, Unemployment Insurance Registration, and sales tax collections (if applicable). Business taxes include income tax, self-employment tax, employment tax, and excise tax. Generally, the type of tax your business pays depends on the type of business structure. Keep in mind that you may also need to make estimated tax payments. </p><h3>5. Payroll Record Keeping</h3><p>Payroll reporting and recordkeeping can be time-consuming and costly. Also, keep in mind that almost all employers are required to transmit federal payroll tax deposits electronically. Personnel files should be kept for each employee and include an employee's employment application as well as the following:</p><ul><li>Form W-4, <em>Employee's Withholding Allowance Certificate</em>. Completed by the employee and used to calculate their federal income tax withholding. This form also includes necessary information such as the employee's address and Social Security number.</li><li>Form I-9, <em>Employment Eligibility Verification U.S. Citizenship and Immigration Services</em>. This form verifies that an employee is legally permitted to work in the U.S.</li></ul><h3>6. Employee Healthcare Requirements</h3><p>As an employer with employees, you may have certain healthcare requirements you need to comply with as well. If so, you should know about the Small Business Health Care Tax Credit, which helps small businesses (fewer than 25 employees who work full-time or a combination of full-time and part-time) pay for health care coverage they offer their employees. The maximum credit is 50 percent of premiums paid for small business employers and 35 percent for small tax-exempt employers, such as charities. It is available to eligible employers for two consecutive taxable years.</p><p>If you have any questions or need help setting up a payroll and accounting system for your new business, don't hesitate to call. </p><p></p><a href="#top"><img src="https://www.cpasitesolutions.com/content/newsletter/images/all_botnav_arrow_off.png" alt="Go to top" border="0" align="right"></a><br><br><a name="4"></a><h2 class="hubtab vertgradient">Verifying Your Identity When Calling the IRS</h2><div class="cellcolor headerline"></div><p></p><p>Sometimes, taxpayers need to call the IRS about a tax matter. If this is the case, they should know that IRS phone assistors take great care to only discuss personal information with the taxpayer or someone the taxpayer authorizes to speak on their behalf. As such, the IRS will ask taxpayers and tax professionals to verify their identity when they call.</p><p>As part of the IRS's ongoing efforts to keep taxpayer data secure from identity thieves and to avoid having to call the IRS back, taxpayers should have the following information ready before calling the IRS:</p><ul><li>Social Security numbers (SSN) and birth dates for those who were named on the tax return</li><li>An Individual Taxpayer Identification Number (ITIN) letter if the taxpayer has one instead of an SSN</li><li>Their filing status: single, head of household, married filing joint, or married filing separate</li><li>The prior-year tax return. Phone assistors may need to verify taxpayer identity with information from the return before answering certain questions</li><li>A copy of the tax return in question</li><li>Any IRS letters or notices received by the taxpayer</li></ul><h3>Taxpayer's Legally Designated Representative</h3><p>By law, IRS telephone assistors will only speak with the taxpayer or to the taxpayer's legally designated representative. In other words, a taxpayer can grant a third party authorization to help them with federal tax matters. Depending on the authorization, the third-party can be a family member or friend, a tax professional, attorney, or business. The different types of third party authorizations include:</p><ul><li><strong>Power of Attorney</strong> - Allow someone to represent you in tax matters before the IRS. Your representative must be an individual authorized to practice before the IRS.</li><li><strong>Tax Information Authorization</strong> - Appoint anyone to review and/or receive your confidential tax information for the type of tax and years/periods you determine.</li><li><strong>Third Party Designee</strong> - Designate a person on your tax form to discuss that specific tax return and year with the IRS.</li><li><strong>Oral Disclosure</strong> - Authorize the IRS to disclose your tax information to a person you bring into a phone conversation or meeting with us about a specific tax issue.</li> </ul><p></p><blockquote class="caution">Taxpayers must still meet all of their tax obligations even when authorizing someone to represent them.<p></p></blockquote><h3>Taxpayers Calling on Behalf of Someone Else's Account</h3><p>If taxpayers or tax professionals are calling about someone else's account, they should be prepared to verify their identities and provide information about the person they are representing. Before calling about a third-party, they should have the following information available:</p><ul><li>Verbal or written authorization from the third-party to discuss the account</li><li>The ability to verify the taxpayer's name, SSN or ITIN, tax period, and tax forms filed</li><li>Preparer Tax Identification Number or PIN if a third-party designee</li><li>One of these forms, which is current, completed and signed: Form 8821, <em>Tax Information Authorization</em> or Form 2848, <em>Power of Attorney and Declaration of Representative</em></li></ul><h3>Questions or Concerns?</h3><p>If you have any questions or concerns about verifying your identity before calling the IRS, don't hesitate to contact the office for assistance.</p><p></p><a href="#top"><img src="https://www.cpasitesolutions.com/content/newsletter/images/all_botnav_arrow_off.png" alt="Go to top" border="0" align="right"></a><br><br><a name="5"></a><h2 class="hubtab vertgradient">Tax Rules for Divorce and Alimony Payments</h2><div class="cellcolor headerline"></div><p></p><p>Divorce is a painful reality for many people, both emotionally and financially. Quite often, the last thing on anyone's mind is the effect a divorce or separation will have on their tax situation. To make matters worse, most court decisions do not consider the effects divorce or separation has on your tax situation, which is why it's always a good idea to speak to an accounting professional before anything is finalized. </p><p>Furthermore, tax rules regarding divorce and separation can and do change - as they recently did under tax reform. Divorced and separated individuals should be aware of tax law changes that took effect in 2019.</p><h3>Who is Impacted</h3><p>The new rules relate to alimony or separate maintenance payments under a divorce or separation agreement and includes all taxpayers with:</p><ul><li>Divorce decrees.</li><li>Separate maintenance decrees.</li><li>Written separation agreements.</li></ul><p></p><blockquote class="note">Tax reform did not change the tax treatment of child support payments which are not taxable to the recipient or deductible by the payor. </blockquote><p></p><h3>Timing of Agreements</h3><p><strong>Agreements executed beginning January 1, 2019 or later.</strong> Alimony or separate maintenance payments are not deductible from the income of the payor spouse, nor are they includable in the income of the receiving spouse if made under a divorce or separation agreement executed after December 31, 2018.</p><p><strong>Agreements executed on or before December 31, 2018 and then modified.</strong> The new law applies if the modification does these two things: </p><ul><li>Changes the terms of the alimony or separate maintenance payments.</li><li>Specifically states that alimony or separate maintenance payments are not deductible by the payer spouse or includable in the income of the receiving spouse.</li></ul><p><strong>Agreements executed on or before December 31, 2018. </strong> Before tax reform, a taxpayer who made payments to a spouse or former spouse could deduct it on their tax return. The taxpayer who receives the payments is required to include it in their income. If an agreement was modified after that date, the agreement still follows the previous law as long as the modifications <em>do not:</em></p><ul><li>Change the terms of the alimony or separate maintenance payments.</li><li>Specifically state that alimony or separate maintenance payments are not deductible by the payer spouse or includable in the income of the receiving spouse.</li></ul><p>Tax reform made an already complicated situation even more so. Don't hesitate to call if you have any questions about the tax rules surrounding divorce and separation. </p><p></p><a href="#top"><img src="https://www.cpasitesolutions.com/content/newsletter/images/all_botnav_arrow_off.png" alt="Go to top" border="0" align="right"></a><br><br><a name="6"></a><br><h2 class="hubtab vertgradient">Extension Deadline Looming for 2020 Tax Returns</h2><div class="cellcolor headerline"></div><p></p><p>Time is running short for taxpayers who requested an extra six months to file their 2020 tax return. As a reminder, Friday, October 15, 2021, is the extension deadline for most taxpayers. Taxpayers who owe tax – even those who did not request an extension - and have yet to file a 2020 tax return can generally avoid additional penalties and interest by filing the return as soon as possible and paying any balance due. </p><p>Taxpayers with relatively simple returns should keep the following items in mind regarding the extension deadline and taxes:</p><p>1. Taxpayers can still e-file returns. Filing electronically is the easiest, safest, and most accurate way to file taxes.</p><p>2. For taxpayers owed a refund, the fastest way to get it is to combine direct deposit and e-file.</p><p>3. Taxpayers who owe taxes should consider using IRS Direct Pay, a simple, quick, and free way to pay from a checking or savings account using a computer or mobile device. There are also other online payment options. Please call the office if you need details about other payment options. </p><p>4. Members of the military and those serving in a combat zone generally get more time to file. Military members typically have until at least 180 days after leaving a combat zone to both file returns and pay any tax due.</p><p>5. Taxpayers should always keep a copy of tax returns for their records. Keeping copies of tax returns can help taxpayers prepare future tax returns or assist with amending a prior year's return.</p><p>Taxpayers with complicated tax returns should contact the office immediately for assistance. Many tax preparers and accounting professionals are extremely busy due to the complexity of tax regulations brought about by the COVID-19 pandemic. </p><p></p><a href="#top"><img src="https://www.cpasitesolutions.com/content/newsletter/images/all_botnav_arrow_off.png" alt="Go to top" border="0" align="right"></a><br><br><a name="7"></a><br><h2 class="hubtab vertgradient">Reminder: Protect Yourself From Scammers</h2><div class="cellcolor headerline"></div><p></p><p>Understanding how the IRS communicates can help taxpayers protect themselves from scammers who pretend to be from the IRS with the goal of stealing personal information. For example, the IRS typically does not call a taxpayer, but if the IRS does call, it should not be a surprise because the agency will have sent a notice or letter first to alert the taxpayer of their intent.</p><p>As a reminder, taxpayers should always protect themselves from scammers. One of the ways they can do this is by understanding how the IRS communicates with them. With this in mind, let's take a look at some of the other ways the IRS communicates with taxpayers:</p><ol><li>The IRS doesn't normally initiate contact with taxpayers by email. As such, never reply to an email from someone who claims to be from the IRS because the IRS email address could be spoofed or fake. Emails from IRS employees will end in irs.gov.</li><li>The agency does not send text messages or contact people through social media. Fraudsters will impersonate legitimate government agents and agencies on social media and try to initiate contact with taxpayers.</li><li>When the IRS needs to contact a taxpayer, the first point of contact is normally by letter delivered by the U.S. Postal Service. Taxpayers should be aware that debt relief firms send unsolicited tax debt relief offers through the mail. Fraudsters will often claim they already notified the taxpayer by U.S. mail.</li><li>Depending on the situation, IRS employees may first call or visit with a taxpayer. In some instances, the IRS sends a letter or written notice to a taxpayer in advance, but not always. Many IRS notices are searchable on the IRS website; however, just because someone references an IRS notice in email, phone call, text, or social media, it does not mean the request is legitimate. If you have any doubts, don't hesitate to contact the office.</li><li>IRS revenue agents or tax compliance officers may call a taxpayer or tax professional after mailing a notice to confirm an appointment or to discuss items for a scheduled audit. The IRS encourages taxpayers to review, <em>How to Know it's Really the IRS Calling or Knocking on Your Door: Collection</em>, found on the IRS website.</li><li>Private debt collectors can call taxpayers to collect certain outstanding inactive tax liabilities, but only after the taxpayer and their representative have received written notice. Private debt collection should not be confused with debt relief firms who will call, send lien notices via U.S. mail, or email taxpayers with debt relief offers. Taxpayers should contact the IRS regarding filing back taxes properly.</li><li>IRS revenue officers and agents routinely make unannounced visits to a taxpayer's home or place of business to discuss taxes owed, delinquent tax returns, or a business falling behind on payroll tax deposits. IRS revenue officers will request payment of taxes owed by the taxpayer. However, taxpayers should remember that payment will never be requested to a source other than the U.S. Treasury.</li><li>If the IRS visits a taxpayer, they should always ask for credentials; IRS representatives can always provide two forms of official credentials: a pocket commission and a Personal Identity Verification Credential.</li></ol><p></p><a href="#top"><img src="https://www.cpasitesolutions.com/content/newsletter/images/all_botnav_arrow_off.png" alt="Go to top" border="0" align="right"></a><br><br><a name="8"></a><br><h2 class="hubtab vertgradient">Gross Receipts Safe Harbor for Employers Claiming ERC</h2><div class="cellcolor headerline"></div><p></p><p>Safe harbor is now available that allows employers to exclude certain items from their gross receipts solely for determining eligibility for the Employee Retention Credit (ERC). These amounts are:</p><ul><li>The amount of the forgiveness of a Paycheck Protection Program (PPP) Loan;</li><li>Shuttered Venue Operators Grants under the Economic Aid to Hard-Hit Small Businesses, Non-Profits, and Venues Act; and</li><li>Restaurant Revitalization Grants under the American Rescue Plan Act of 2021.</li></ul><p>An employer elects to apply the safe harbor by excluding these amounts solely for determining whether it is an eligible employer for a calendar quarter for purposes of claiming the ERC on its employment tax return. </p><p>The safe harbor should be applied consistently to determine eligibility for the ERC. Employers must exclude the amounts from their gross receipts for each calendar quarter in which gross receipts are relevant to determining eligibility to claim the ERC. Furthermore, the employer claiming the credit must also apply the safe harbor to all employers treated as a single employer under the aggregation rules. </p><p>Employers claim the ERC on their employment tax return, generally Form 941, <em>Employers Quarterly Federal Tax Return</em>, or adjusted employment tax return, generally Form 941-X, <em>Adjusted Employer's Quarterly Federal Tax Return or Claim for Refund</em>. </p><p>Please note that an employer is not required to apply this safe harbor, and the safe harbor does not permit the exclusion of these amounts from gross receipts for any other federal tax purpose. </p><p>Further changes may be forthcoming pending legislation; however, if you have any questions or would like more information about the latest guidance regarding the ECR, don't hesitate to call the office now.  </p><p></p><a href="#top"><img src="https://www.cpasitesolutions.com/content/newsletter/images/all_botnav_arrow_off.png" alt="Go to top" border="0" align="right"></a><br><br><a name="9"></a><br><h2 class="hubtab vertgradient">How To Get an Identity Protection Pin</h2><div class="cellcolor headerline"></div><p></p><p>An Identity Protection PIN is a six-digit number eligible taxpayers get to help prevent their Social Security number or Individual Taxpayer Identification Number from being used to file fraudulent federal income tax returns. This number helps the IRS verify a taxpayer's identity and accept their tax return. The <em>Get An IP PIN</em> tool enables anyone with an SSN or ITIN to get an IP PIN after verifying their identity through a rigorous authentication process. For security reasons, tax pros cannot get an IP PIN on behalf of clients.</p><strong><p>Facts taxpayers should know about the IP PIN:</p></strong><ul><li> It's a six-digit number known only to the taxpayer and the IRS.</li><li>The opt-in program is voluntary.</li><li>The IP PIN should be entered onto the electronic tax return when prompted by the software product or onto a paper return next to the signature line.</li><li>The IP PIN is valid for one calendar year.</li><li>For security reasons, enrolled participants get a new IP PIN each year.</li><li>Spouses and dependents are eligible for an IP PIN if they can verify their identities.</li><li>IP PIN users should never share their number with anyone but the IRS and their trusted tax preparation provider. The IRS will never call, email, or text a request for the IP PIN.</li></ul><p>Currently, taxpayers can get an IP PIN for 2021, which should be used when filing any federal tax returns during the year, including prior year returns. New IP PINs will be available starting in January 2022.</p><p><strong>Taxpayers Unable to Validate Identity Online</strong></p><p>Taxpayers who are unable to validate their identity online and have income of $72,000 or less, can file Form 15227 (EN-SP), <em>Application for an Identity Protection Personal Identification Number</em>. The IRS will call the phone number the taxpayer provided on Form 15227 to validate the taxpayer's identity. However, for security reasons, the IRS will assign an IP PIN for <strong>the next filing season, and the taxpayer cannot use</strong> the IP PIN for the current filing season.</p><p>Taxpayers who cannot validate their identity online, or by the phone, or who are ineligible to file a Form 15227 can make an appointment at a Taxpayer Assistance Center. Please call the office if you need assistance locating a center. Before arriving at their appointment, taxpayers will need to bring one current government-issued picture ID and another identification document to prove their identity. Once verified, the taxpayer will receive an IP PIN in the mail, usually within three weeks.</p><p></p><a href="#top"><img src="https://www.cpasitesolutions.com/content/newsletter/images/all_botnav_arrow_off.png" alt="Go to top" border="0" align="right"></a><br><br><a name="10"></a><br><h2 class="hubtab vertgradient">Tax Planning: Facts About Credits and Deductions </h2><div class="cellcolor headerline"></div><p></p><p>Tax credits and deductions can mean more money in a taxpayer's pocket. Here are a few facts about credits and deductions that help taxpayers with their year-round tax planning:</p><ol><li>Taxable income is what's left over after someone subtracts any eligible deductions from their adjusted gross income. This includes the standard deduction ($12,5550 in 2021 for single filers; $25,100 for married filing jointly). Most individual taxpayers take the standard deduction. On the other hand, some taxpayers may choose to itemize their deductions because it could lower their taxable income.</li><li>As a general rule, if a taxpayer's itemized deductions are larger than their standard deduction, they should itemize. Also, in some cases, taxpayers may even be required to itemize.</li><li>For a quick overview of what expenses they may be able to itemize, taxpayers with less complicated returns may be able to use the Interactive Tax Assistant found on the IRS website.</li><li>Tax credits are subtracted from the total amount of tax owed. To claim a credit, taxpayers should keep records that show their eligibility for it.</li><li>The American Rescue Plan changed several valuable tax credits, including the child and dependent tax credit, the childless earned income tax credit, the childless earned income tax credit, and the child tax credit. It's important for taxpayers to understand how these changes may affect the 2021 tax return.</li><li>Properly claiming tax credits can reduce taxes owed and boost refunds. Some tax credits, like the Earned Income Tax Credit (EITC), are even refundable, which means a taxpayer can get money refunded to them even if they don't owe any taxes.</li></ol><p>To learn more about how you can save money on your 2021 tax return by planning ahead, please call the office today.</p><p></p><a href="#top"><img src="https://www.cpasitesolutions.com/content/newsletter/images/all_botnav_arrow_off.png" alt="Go to top" border="0" align="right"></a><br><br><!-- Next Article --><a name="tdd"></a><h2 class="hubtab vertgradient">Tax Due Dates for September 2021</h2><div class="cellcolor headerline"></div><h3 style="color:#FFF; background-color:#888; padding: 0 5px;">September 10</h3><p><strong>Employees Who Work for Tips</strong> - If you received $20 or more in tips during August, report them to your employer. You can use Form 4070.</p><h3 style="color:#FFF; background-color:#888; padding: 0 5px;">September 15</h3><p><strong>Individuals</strong> - Make a payment of your 2021 estimated tax if you are not paying your income tax for the year through withholding (or will not pay in enough tax that way). Use Form 1040-ES. This is the third installment date for estimated tax in 2021.</p><p><strong>Partnerships</strong> - File a 2020 calendar year income tax return (Form 1065). This due date applies only if you were given an additional 6-month extension. Provide each shareholder with a copy of Schedule K-1 (Form 1065) or a substitute Schedule K-1.</p><p><strong>S corporations</strong> - File a 2020 calendar year income tax return (Form 1120S) and pay any tax due. This due date applies only if you made a timely request for an automatic 6-month extension. Provide each shareholder with a copy of Schedule K-1 (Form 1120S) or a substitute Schedule K-1.</p><p><strong>Corporations</strong> - Deposit the third installment of estimated income tax for 2021. A worksheet, Form 1120-W, is available to help you make an estimate of your tax for the year.</p><p><strong>Employers</strong> - Nonpayroll withholding. If the monthly deposit rule applies, deposit the tax for payments in August.</p><p><strong>Employers</strong> - Social Security, Medicare, and withheld income tax. If the monthly deposit rule applies, deposit the tax for payments in August.</p><br><a href="#top"><img src="https://www.cpasitesolutions.com/content/newsletter/images/all_botnav_arrow_off.png" alt="Go to top" border="0" align="right"></a><br><br><!-- End of Article --><!-- Copy Right  Protection --><p style="line-height: 90%"><font size="1">Copyright © 2021 &nbsp; All materials contained in this document are protected by U.S. and international copyright laws. All other trade names, trademarks, registeredtrademarks and service marks are the property of their respective owners.</font></p><br></div></div>
+<!-- Start DIV: Footer -->
+<div id="Footer" style="text-align: left;">
+<center>Mathsdaq, Accountant<br> 1911 Old Sawmill RD.<br> Brandon, FL, 33510<br><b>Phone: 727-560-9040</b><br><a href="mailto:danasdaq477@aol.com">danasdaq477@aol.com</a><br><br></center>
+</div>
+
+
+</td>
+</tr>
+</tbody></table>
+</center>
+<script type="text/javascript" language="javascript">
+	var activePage = document.getElementById('page_280'); 
+	if (activePage != null) {
+		activePage.className = 'active'; 
+	}
+	var activePageName = 'newsletter';
+</script>
+
+		            </div>
+		            <div id="styleFeatureBar">
+		                <a href="lb-consultation.php" class="consult fancybox">
+		                    Request a Quote
+		                </a>
+		            </div><!-- End styleFeatureBar -->
+		            <ul id="styleSidebar">
+ 	<li><center>
+    	<img class="thumbborder" src="/~tampaflta/images/MATHSDAQ200x250.jpg">
+
+
+</center></li>
+<br>
+		            	<li>
+		                	<h2 class="title" id="subNavTitle">Newsletter</h2>
+		                	<div id="subNav">
+		                    <a class="menulinks" href="/newsletter.php" target="_top">This Month's Newsletter</a><a class="menulinks" href="/archive.php" target="_top">Previous Newsletters</a></div>
+		                </li>
+		              <!--  <li>
+		                	<h2 class="title">Days until April 15</h2>
+		                	<div id="defaultCountdown"></div>
+		                    <div class="clearfloat">
+		                    </div>
+		                </li>-->
+		            	<li>
+		                	<h2 class="title">Latest News</h2>
+		                    <div id="rssFeedReader">
+		                    <div class="rssBody"><ul class="rssFeed"><li class="rssRow"><h4><a href="http://www.Mathdaq.com/newsletter.php#2">What Is a Designated Roth Account?</a></h4><p>If you are a high-income earner who participates in a 401(k), 403(b), or governmental 457(b) retirement plan that has a ...</p></li><li class="rssRow"><h4><a href="http://www.Mathsdaq.com/newsletter.php#4">Verifying Your Identity When Calling the IRS</a></h4><p>If you need to contact the IRS, you will be asked to verify your identity. Here's what you need to know before you call....</p></li><li class="rssRow"><h4><a href="http://www.Mathsdaq.com/newsletter.php#5">Tax Rules for Divorce and Alimony Payments</a></h4><p>Tax rules regarding divorce and separation can and do change - as they recently did under tax reform - and the last thin...</p></li></ul></div></div>
+		                </li>
+		            </ul><!-- End styleSidebar -->
+		            <div class="clearfloat">
+		            </div>
+	                <ul id="styleSeals">
+	                <!--	<li>
+	                    	<img src="/images/galleries/style/527/images/seal-quickbooks.png">
+	                    </li>
+	                   <li>
+	                    	<img src="/images/galleries/style/527/images/seal-aicpa.png">
+	                    </li>
+	                    <li>
+	                    	<img src="/images/galleries/style/527/images/seal-bbb.png">
+	                    </li>
+	                    <li>
+	                    	<img src="/images/galleries/style/527/images/seal-afn.png">
+	                    </li> -->
+	                </ul><!-- End styleSeals -->
+		        </div><!-- End stylePage -->
+		        <div id="styleFooter">
+		        	<div class="left">
+		            	<strong>Mathsdaq, Accountant, 1911 Old Sawmill Rd., Brandon, FL, 33510</strong><br>
+						Phone: <a href="tel:+727-560-9040">727-560-9040</a> <!--| Fax: 000-000-0000--> | 
+		                <a href="mailto:danasdaq477@aol.com ">Email: danasdaq477@aol.com </a>
+		            </div>
+		            <div class="right">
+		            	<a href="search.php">Search</a> | 
+		                <a href="sitemap.php">Site Map</a> | 
+		                <a href="privacy.php">Privacy Policy</a> | 
+		                <a href="disclaimer.php">Disclaimer</a><br>
+						© Mathsdaq, Accountant 2021		            </div>
+		            <div class="clearfloat">
+		            </div>
+		            <!--
+			        <ul id="styleSocial">
+			            <li>
+			            	<a href="http://www.linkedin.com" target="_blank">
+			                	<img src="/images/galleries/style/527/images/social-linkedin.png" />
+			                </a>
+			            </li>
+			            <li>
+			            	<a href="http://www.twitter.com" target="_blank">
+			                	<img src="/images/galleries/style/527/images/social-twitter.png" />
+			                </a>
+			            </li>
+			            <li>
+			            	<a href="http://www.facebook.com" target="_blank">
+			                	<img src="/images/galleries/style/527/images/social-facebook.png" />
+			                </a>
+			            </li>
+			        </ul>
+			        --><!-- End styleSocial -->
+		        </div><!-- End styleFooter -->
+	        </div><!-- End stylePageContainer -->
+	    </div><!-- End styleIeGlowContainer -->
+	</div><!-- End styleIeBkgContainer -->
+
+<!-- RSS Feed Reader Script -->
+<script src="/images/galleries/style/jquery/zrssfeed/jquery.zrssfeed.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+    var domain = 'http://Mathsdaq.com/';
+    if (domain.substr(domain.length-1) != "/") {
+        domain = domain + '/';
+    } 
+    $('#rssFeedReader').rssfeed(domain+'rssfeed.php', {
+        limit: 3  // Number of posts displayed
+    });
+});
+</script>
+
+<!-- Mobile Menu -->
+<script type="text/javascript">
+ // DOM ready
+ $(function() {
+   
+  // Create the dropdown base
+  $("<select />").appendTo("#nav-menu");
+  
+  // Create default option "Go to..."
+  $("<option />", {
+	 "selected": "selected",
+	 "value"   : "",
+	 "text"    : "Go to..."
+  }).appendTo("#nav-menu select");
+  
+  // Populate dropdown with menu items
+  $("#nav-menu a").each(function() {
+   var el = $(this);
+   $("<option />", {
+	   "value"   : el.attr("href"),
+	   "text"    : el.text()
+   }).appendTo("#nav-menu select");
+  });
+  
+   // To make dropdown actually work
+  $("#nav-menu select").change(function() {
+	window.location = $(this).find("option:selected").val();
+  });
+ 
+ });
+</script>
+
+<!-- SuperFish Menu -->
+<script type="text/javascript" src="/images/galleries/style/jquery/superfish/js/superfish.js"></script>
+<script src="/images/galleries/style/jquery/superfish/js/supersubs.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $('ul.menu').css('display', 'block');
+    $('ul.menu').supersubs({
+        minWidth: 9,
+        maxWidth: 50,
+        extraWidth: 1
+    })
+    $('ul.menu').superfish({
+        delay: 200,
+        animation: {height:'show', width:'show', opacity:'show'},
+        speed: 200,
+        disableHI: true
+    })
+});
+</script>
+
+<!-- Fancybox Script -->
+<script type="text/javascript" src="/images/galleries/style/jquery/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="/images/galleries/style/jquery/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $(".fancybox").fancybox({
+            'opacity'        : true,
+            'speedIn'        : 500,
+            'speedOut'        : 500,
+            'enableEscapeButton' : true,
+            onComplete: function() { //gives focus to input on Client Portal pop-up
+            $('.focus:last').focus();
+            }
+        });
+    });
+</script>
+
+
+
+<!-- Clear Form Script -->
+<script type="text/javascript">
+    function clearIt(field) {
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+    }
+    $(function(){
+    $('input').keydown(function(e){
+        if (e.keyCode == 13) {
+            $(this).parents('form').submit();
+            return false;
+        }
+    });
+    });
+</script>
+
+
+	
+<!-- Sub Nav -->
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#subNavTitle').text($('li.active a:eq(0)').text());
+	$('li.active li a').not('li.active li li a').clone().appendTo('#subNav');
+	if ( $('li.active').children().length <= 1 ) {
+    	$('#styleSidebar li:nth-child(1)').css('display','none');
+	}
+});
+</script>
+
+
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://analytics.mathsdaq.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 8199]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://analytics.mathsdaq.com/piwik.php?idsite=8199" style="border:0;" alt="Piwik Tracker" /></p></noscript>
+<!-- End Piwik Code -->
+
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div>
+</body>
+</html>

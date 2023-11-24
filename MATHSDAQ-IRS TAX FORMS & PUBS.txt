@@ -1,0 +1,706 @@
+﻿<html lang="en">
+<head>
+<!-- viewport meta to reset iPhone inital scale -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- IE compatibility mode fix and ChromeFrame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<!-- Skype Fix -->
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+
+<!-- Start Stylesheet -->
+<link href="compiled.css?2020916114158" rel="stylesheet">
+
+<!-- Fancybox CSS -->
+<link rel="stylesheet" type="text/css" href="/images/galleries/style/jquery/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+
+<!-- Google Fonts -->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300" rel="stylesheet" type="text/css">
+
+<!--[if lt IE 9]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]-->
+
+<!-- css3-mediaqueries.js for IE8 or older -->
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+
+<!--[if lt IE 7]>
+<script defer type="text/javascript" src="http://www.mathsdaq.com/pngfix.js"></script>
+<![endif]-->
+
+<title>
+Tampa, FL Tax Firm | Tax Strategies for Business Owners Page | Mathsdaq, Acountant
+</title>
+
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+
+<meta name="description" content="Take a look at our Tax Strategies for Business Owners page. Mathsdaq, Accountant is a full service tax, accounting and business consulting firm located in Tampa, FL.">
+<meta name="keywords" content="cpa, taxes, cpa firm, accounting firm, accountant, bookkeeping, tampa fl cpa, tampa fl taxes, quickbooks, quickbooks proadvisor, quickbooks accounting, quickbooks bookkeeping, quickbooks training, tax preparation, tax return, tax planning, tax services, government accounting, corporate taxes, partnership taxes, estate taxes, fiduciary taxes, individual taxes, sales tax, trust taxes, payroll taxes, pension taxes, bankruptcy taxation, back tax returns, tax organizer, business license, personal property tax return, recordkeeping, financial statements, compilation reports">
+
+<!-- jQuery -->
+<script type="text/javascript" async="" defer="" src="https://analytics.mathsdaq.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/images/galleries/style/jquery/jquery.js">
+</script>
+
+<style>
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+</style>
+<script language="javascript">
+function hideEmail (emailuser, emaildomain) {
+    window.location="mailto:" + emailuser + "@" +emaildomain;
+}
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52703440-1', 'auto');
+  ga('send', 'pageview');
+
+</script> 
+</head>
+
+<body>
+	<a id="top" name="top"></a>
+	<div id="styleIeBkgContainer">
+		<div id="styleIeGlowContainer">
+	    	<img src="/images/galleries/style/527/images/bkg-arch.png" id="styleArch">
+			<div id="stylePageContainer">
+				<div id="styleHeader">
+		        	<a href="index.php" id="styleLogo">
+<img src="http://cp7.mathsdaq.com/~tampaflta/images/Mathsdaq_logo(1).png" alt="Tampa, FL Tax & Accounting Firm | Tax Strategies for Business Owners Page | Mathsdaq, Tax & Accounting firm, PC" border="0">
+		            </a>
+		            <div id="styleLinks">
+		            	<a href="contact.php" class="contact">
+	                        Contact    	
+	                    </a>
+	                    <a href="lb-portal.php" class="portal fancybox">
+	                        Portal Login    	
+	                    </a>
+	                    <a href="lb-subscribe.php" class="subscribe fancybox">
+	                        Subscribe    	
+	                    </a>
+	                    <div class="clearfloat">
+	                    </div>
+	                    <a href="tel:+727-560-9040" class="phone">
+	                        727-560-9040    	
+	                    </a>
+		            </div><!-- End styleLinks -->
+		            <div class="clearfloat"> 
+		            </div>     	
+		      	</div><!-- End styleHeader -->
+		        <div id="stylePage">
+		        	<!-- Start Navbar -->
+<div id="nav-menu" class="moomenu">
+	<ul class="menu sf-js-enabled sf-shadow" id="nav" style="display: block;">
+				<li id="page_1271" class="">
+					<span class="top">
+						<span class="leftBG"></span>
+						<a class="" href="/index.php" target="_top">Home</a>
+						<span class="rightBG"></span>
+						<span class="selector"></span>
+					</span>
+				</li>
+			<li id="page_1214" class="parent">
+				<span class="topdaddy"><span class="leftBG"></span>
+<a class="topdaddy" href="/about.php" target="_top">About</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				<ul style="float: none; width: 14.3571em; display: none; visibility: hidden;">
+					<li id="page_1258" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/firmprofile.php" target="_top">About Our Firm</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+				<li id="page_1272" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/schedule.php" target="_top">2019 Individual Tax Fees</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1216" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/blog.php" target="_top">Blog</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+			</ul>
+				</li>			<li id="page_3" class="parent">
+				<span class="topdaddy"><span class="leftBG"></span>
+<a class="topdaddy" href="/services.php" target="_top">Services</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				<ul style="float: none; width: 15em; display: none; visibility: hidden;">
+					<li id="page_29" class="parent" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="daddy" href="/taxservices.php" target="_top">Tax Services</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					<ul style="left: 15em; float: none; width: 10.4286em; display: none; visibility: hidden;">
+						<li id="page_30" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxprep.php" target="_top">Tax Preparation</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+					<li id="page_31" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxplanning.php" target="_top">Tax Planning</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+					<li id="page_1221" class="parent" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="daddy" href="/irs-problemshome.php" target="_top">Tax Problems</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						<ul style="left: 10.4286em; float: none; width: 14.5714em; display: none; visibility: hidden;">
+							<li id="page_1225" class="" style="white-space: normal; float: none; width: 100%;">
+								<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-representation.php" target="_top">IRS Audit Representation</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+						<li id="page_1224" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-nonfiledreturns.php" target="_top">Non-Filed Tax Returns</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1226" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-backtaxes.php" target="_top">Back Taxes Owed</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1228" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-payrolltax.php" target="_top">Payroll Tax Problems</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1230" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-taxliens.php" target="_top">IRS Liens</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1232" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-taxlevies.php" target="_top">IRS Levies</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1234" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-garnishment.php" target="_top">IRS Wage Garnishment</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1236" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-taxseizures.php" target="_top">IRS Seizures</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1241" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-paymentplan.php" target="_top">IRS Payment Plan</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1266" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-offercompromise.php" target="_top">Offer In Compromise</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+						<li id="page_1243" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/irs-taxbankruptcy.php" target="_top">Bankruptcy</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+							</li>
+
+				</ul>
+					</li>				</ul>
+					</li>				<li id="page_4" class="parent" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="daddy" href="/bizservices.php" target="_top">Business-Specific Services</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					<ul style="left: 15em; float: none; width: 17.5em; display: none; visibility: hidden;">
+						<li id="page_5" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/smallbiz.php" target="_top">Small Business Accounting</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+					<li id="page_14" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/payrollservice.php" target="_top">Payroll</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+					<li id="page_16" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/auditing.php" target="_top">Audits - Reviews - Compilations</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+					<li id="page_19" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/valuation.php" target="_top">Business Valuation</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+					<li id="page_20" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/bizplan.php" target="_top">Strategic Business Planning</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+					<li id="page_22" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/formation.php" target="_top">New Business Formation</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+				</ul>
+					</li>				<li id="page_6" class="parent" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="daddy" href="/qbmain.php" target="_top">QuickBooks Services</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					<ul style="left: 15em; float: none; width: 12.5714em; display: none; visibility: hidden;">
+						<li id="page_7" class="" style="white-space: normal; float: none; width: 100%;">
+							<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/whyquickbooks.php" target="_top">Why QuickBooks</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+					<li id="page_8" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/quickbookssetup.php" target="_top">QuickBooks Setup</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+					<li id="page_9" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/qbtraining.php" target="_top">QuickBooks Training</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+						</li>
+
+			</ul>
+				</li>			</ul>
+				</li>			<li id="page_298" class="parent">
+				<span class="topdaddy"><span class="leftBG"></span>
+<a class="topdaddy" href="/taxcenter2.php" target="_top">Tax Center</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				<ul style="float: none; width: 17.5em; display: none; visibility: hidden;">
+					<li id="page_1161" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxrefunds.php" target="_top">Track Your Refund</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+				<li id="page_1162" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxduedates.php" target="_top">Tax Due Dates</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1163" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxrates2.php" target="_top">Tax Rates</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1164" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxpublications.php" target="_top">IRS Tax Forms and Publications</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1166" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxretention.php" target="_top">Record Retention Guide</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1167" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/statetaxforms.php" target="_top">State Tax Forms</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1168" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/calcloader.php?calc=inc12" target="_blank">1040 Tax Calculator</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+			</ul>
+				</li>			<li id="page_161" class="">
+				<span class="top"><span class="leftBG"></span>
+<a class="" href="/calc-section.php" target="_top">Calculators</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				</li>
+
+			<li id="page_280" class="parent">
+				<span class="topdaddy"><span class="leftBG"></span>
+<a class="topdaddy" href="/newsletter.php" target="_top">Newsletter</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				<ul style="float: none; width: 14.2857em; display: none; visibility: hidden;">
+					<li id="page_281" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/newsletter.php" target="_top">This Month's Newsletter</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+				<li id="page_284" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/archive.php" target="_top">Previous Newsletters</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+			</ul>
+				</li>			<li id="page_942" class="active">
+				<span class="topdaddy"><span class="leftBG"></span>
+<a class="topdaddy" href="/reports.php" target="_top">Guides</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				<ul style="float: none; width: 19.3571em; display: none; visibility: hidden;">
+					<li id="page_1151" class="" style="white-space: normal; float: none; width: 100%;">
+						<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/life-events.php" target="_top">Life Events</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+				<li id="page_1153" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/business-strategies.php" target="_top">Business Strategies</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1155" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/investment-strategies.php" target="_top">Investment Strategies</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1156" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxstrategies-businessowners.php" target="_top">Tax Strategies for Business Owners</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1154" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/taxstrategies-individuals.php" target="_top">Tax Strategies for Individuals</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+				<li id="page_1159" class="" style="white-space: normal; float: none; width: 100%;">
+					<span class="top"><span class="leftBG"></span>
+<a class="menulinks" href="/frequently-asked-questions.php" target="_top">Frequently Asked Questions</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+					</li>
+
+			</ul>
+				</li>			<li id="page_1273" class="">
+				<span class="top"><span class="leftBG"></span>
+<a class="" href="/quick-send.php" target="_top">SecureSend</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				</li>
+
+			<li id="page_444" class="">
+				<span class="top"><span class="leftBG"></span>
+<a class="" href="/contact.php" target="_top">Contact</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				</li>
+
+			<li id="page_1276" class="">
+				<span class="top"><span class="leftBG"></span>
+<a class="" href="/BookkeepingServices.php" target="_top">Bookkeeping Services</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				</li>
+
+			<li id="page_1277" class="">
+				<span class="top"><span class="leftBG"></span>
+<a class="" href="/socialmedia.php" target="_top">Social Media</a><span class="rightBG"></span>
+<span class="selector"></span></span>
+				</li>
+
+	</ul>
+<select><option selected="selected" value="">Go to...</option><option value="/index.php">Home</option><option value="/about.php">About</option><option value="/firmprofile.php">About Our Firm</option><option value="/schedule.php">2019 Individual Tax Fees</option><option value="/blog.php">Blog</option><option value="/services.php">Services</option><option value="/taxservices.php">Tax Services</option><option value="/taxprep.php">Tax Preparation</option><option value="/taxplanning.php">Tax Planning</option><option value="/irs-problemshome.php">Tax Problems</option><option value="/irs-representation.php">IRS Audit Representation</option><option value="/irs-nonfiledreturns.php">Non-Filed Tax Returns</option><option value="/irs-backtaxes.php">Back Taxes Owed</option><option value="/irs-payrolltax.php">Payroll Tax Problems</option><option value="/irs-taxliens.php">IRS Liens</option><option value="/irs-taxlevies.php">IRS Levies</option><option value="/irs-garnishment.php">IRS Wage Garnishment</option><option value="/irs-taxseizures.php">IRS Seizures</option><option value="/irs-paymentplan.php">IRS Payment Plan</option><option value="/irs-offercompromise.php">Offer In Compromise</option><option value="/irs-taxbankruptcy.php">Bankruptcy</option><option value="/bizservices.php">Business-Specific Services</option><option value="/smallbiz.php">Small Business Accounting</option><option value="/payrollservice.php">Payroll</option><option value="/auditing.php">Audits - Reviews - Compilations</option><option value="/valuation.php">Business Valuation</option><option value="/bizplan.php">Strategic Business Planning</option><option value="/formation.php">New Business Formation</option><option value="/qbmain.php">QuickBooks Services</option><option value="/whyquickbooks.php">Why QuickBooks</option><option value="/quickbookssetup.php">QuickBooks Setup</option><option value="/qbtraining.php">QuickBooks Training</option><option value="/taxcenter2.php">Tax Center</option><option value="/taxrefunds.php">Track Your Refund</option><option value="/taxduedates.php">Tax Due Dates</option><option value="/taxrates2.php">Tax Rates</option><option value="/taxpublications.php">IRS Tax Forms and Publications</option><option value="/taxretention.php">Record Retention Guide</option><option value="/statetaxforms.php">State Tax Forms</option><option value="/calcloader.php?calc=inc12">1040 Tax Calculator</option><option value="/calc-section.php">Calculators</option><option value="/newsletter.php">Newsletter</option><option value="/newsletter.php">This Month's Newsletter</option><option value="/archive.php">Previous Newsletters</option><option value="/reports.php">Guides</option><option value="/life-events.php">Life Events</option><option value="/business-strategies.php">Business Strategies</option><option value="/investment-strategies.php">Investment Strategies</option><option value="/taxstrategies-businessowners.php">Tax Strategies for Business Owners</option><option value="/taxstrategies-individuals.php">Tax Strategies for Individuals</option><option value="/frequently-asked-questions.php">Frequently Asked Questions</option><option value="/quick-send.php">SecureSend</option><option value="/contact.php">Contact</option><option value="/BookkeepingServices.php">Bookkeeping Services</option><option value="/socialmedia.php">Social Media</option></select></div>
+
+		        	</div>
+		        	<div id="stylePage">
+		        	<div id="styleFeature" class="internal">
+		        	</div>
+		            <div id="styleFeature">
+		            	<!--<div class="fade">
+		                </div>-->
+		                <!--<div id="clientPhoto">
+		                	<img src="/images/galleries/style/527/images/client-photo.jpg" />
+		                </div>-->
+		                <!--<div class="tagline">
+		                	<h1>Hi, I'm  </h1>
+		                	<h2>With over 12 years experience, I can help you with all your accounting needs.</h2>
+		                </div>-->
+		            </div>
+		            <div id="styleContent">
+		            	<h1 id="styleTitle">Tax Strategies for Business Owners</h1>
+		            	<center>
+	<table border="0" cellpadding="0" cellspacing="0" align="center" width="550">
+		<tbody><tr>
+			<td>
+				<!-- START CONTENT -->
+                                				<!-- Start DIV: Guides -->
+<div id="Guides" style="text-align: left;">
+<br>
+<br>This segment of financial guides is dedicated to strategic tax planning for business owners. Can you save more? We think so.<br><br><link rel="StyleSheet" href="images/galleries/Shared/css/fga.css" type="text/css"><h2 class="hubtab vertgradient">Financial Guides</h2>
+	<br class="clearfloat">
+			<hr border="0" class="headerline contrastcolor" noshade="noshade" size="2"><table width="100%"><tbody><tr><td style="padding-top: 8px" align="center" width="55"><img src="/images/galleries/fg-icons/icon-fg.png" valign="bottom" alt="Financial Guides" align="center" heigh="44" widht="55"></td><td align="left" valign="top" style="padding-left: 40px;"><a href="/taxstrategies-businessowners.php?item=127&amp;catid=26&amp;cat=Tax Planning For Small Business Owners"><font face="Arial" size="2"><b>Tax Planning For Small Business Owners</b></font></a><br><a href="/taxstrategies-businessowners.php?item=128&amp;catid=26&amp;cat=7 Biggest Misconceptions Business Owners Have About Their Returns"><font face="Arial" size="2"><b>7 Biggest Misconceptions Business Owners Have About Their Returns</b></font></a><br><a href="/taxstrategies-businessowners.php?item=120&amp;catid=26&amp;cat=Travel and Entertainment: Maximizing the Tax Benefits"><font face="Arial" size="2"><b>Travel and Entertainment: Maximizing the Tax Benefits</b></font></a><br><a href="/taxstrategies-businessowners.php?item=132&amp;catid=26&amp;cat=7 Ways To Save Even More Income Taxes"><font face="Arial" size="2"><b>7 Ways To Save Even More Income Taxes</b></font></a><br><a href="/taxstrategies-businessowners.php?item=133&amp;catid=26&amp;cat=The Home Office Deduction"><font face="Arial" size="2"><b>The Home Office Deduction</b></font></a><br><a href="/taxstrategies-businessowners.php?item=135&amp;catid=26&amp;cat=Turn your Vacation Into a Tax Deduction"><font face="Arial" size="2"><b>Turn your Vacation Into a Tax Deduction</b></font></a><br><a href="/taxstrategies-businessowners.php?item=105&amp;catid=26&amp;cat=Form of Business Organization: Which Should You Choose?"><font face="Arial" size="2"><b>Form of Business Organization: Which Should You Choose?</b></font></a><br><a href="/taxstrategies-businessowners.php?item=136&amp;catid=26&amp;cat=Retirement Plan Options For Small Businesses"><font face="Arial" size="2"><b>Retirement Plan Options For Small Businesses</b></font></a><br><a href="/taxstrategies-businessowners.php?item=61&amp;catid=26&amp;cat=The SIMPLE Plan: A Retirement Plan for the Really Small Business"><font face="Arial" size="2"><b>The "SIMPLE" Plan: A Retirement Plan for the Really Small Business</b></font></a><br></td></tr></tbody></table><br><br><h2 class="hubtab vertgradient">Frequently Asked Questions</h2>
+	<br class="clearfloat">
+			<hr border="0" class="headerline contrastcolor" noshade="noshade" size="2"><table width="100%"><tbody><tr><td style="padding-top: 8px" align="center" width="55"><img src="/images/galleries/fg-icons/icon-faq.png" valign="bottom" alt="Frequently Asked Questions" align="center" heigh="44" widht="55"></td><td align="left" valign="top" style="padding-left: 40px;"><a href="/taxstrategies-businessowners.php?item=141&amp;catid=26&amp;cat=Recordkeeping: Frequently Asked Questions"><font face="Arial" size="2"><b>Recordkeeping: Frequently Asked Questions</b></font></a><br></td></tr></tbody></table><br><br>
+</div>
+
+
+				<!-- Start DIV: Footer -->
+<div id="Footer" style="text-align: left;">
+<center>Mathsdaq,Tax & Accounting Firm<br> 1911 Old Sawmill RD.<br> Brandon, FL, 33510<br><b>Phone: 727-560-9040</b><br><a href="mailto:danasdaq477@aol.com">danasdaq477@aol.com</a><br><br></center>
+</div>
+
+
+				<!-- END CONTENT -->
+			</td>
+		</tr>
+	</tbody></table>
+</center>
+<script type="text/javascript" language="javascript">
+	var activePage = document.getElementById('page_942'); 
+	if (activePage != null) {
+		activePage.className = 'active'; 
+	}
+	var activePageName = 'guides';
+</script>
+
+		            </div>
+		            <div id="styleFeatureBar">
+		                <a href="lb-consultation.php" class="consult fancybox">
+		                    Request a Quote
+		                </a>
+		            </div><!-- End styleFeatureBar -->
+		            <ul id="styleSidebar">
+ 	<li><center>
+    	<img class="thumbborder" src="/~tampaflta/images/MATHSDAQ200x250.jpg">
+
+
+</center></li>
+<br>
+		            	<li>
+		                	<h2 class="title" id="subNavTitle">Guides</h2>
+		                	<div id="subNav">
+		                    <a class="menulinks" href="/life-events.php" target="_top">Life Events</a><a class="menulinks" href="/business-strategies.php" target="_top">Business Strategies</a><a class="menulinks" href="/investment-strategies.php" target="_top">Investment Strategies</a><a class="menulinks" href="/taxstrategies-businessowners.php" target="_top">Tax Strategies for Business Owners</a><a class="menulinks" href="/taxstrategies-individuals.php" target="_top">Tax Strategies for Individuals</a><a class="menulinks" href="/frequently-asked-questions.php" target="_top">Frequently Asked Questions</a></div>
+		                </li>
+		              <!--  <li>
+		                	<h2 class="title">Days until April 15</h2>
+		                	<div id="defaultCountdown"></div>
+		                    <div class="clearfloat">
+		                    </div>
+		                </li>-->
+		            	<li>
+		                	<h2 class="title">Latest News</h2>
+		                    <div id="rssFeedReader">
+		                    <div class="rssBody"><ul class="rssFeed"><li class="rssRow"><h4><a href="http://www.Mathsdaq.com/newsletter.php#2">What Is a Designated Roth Account?</a></h4><p>If you are a high-income earner who participates in a 401(k), 403(b), or governmental 457(b) retirement plan that has a ...</p></li><li class="rssRow"><h4><a href="http://www.washingtondctaxescpa.com/newsletter.php#4">Verifying Your Identity When Calling the IRS</a></h4><p>If you need to contact the IRS, you will be asked to verify your identity. Here's what you need to know before you call....</p></li><li class="rssRow"><h4><a href="http://www.Mathsdaq.com/newsletter.php#5">Tax Rules for Divorce and Alimony Payments</a></h4><p>Tax rules regarding divorce and separation can and do change - as they recently did under tax reform - and the last thin...</p></li></ul></div></div>
+		                </li>
+		            </ul><!-- End styleSidebar -->
+		            <div class="clearfloat">
+		            </div>
+	                <ul id="styleSeals">
+	                <!--	<li>
+	                    	<img src="/images/galleries/style/527/images/seal-quickbooks.png">
+	                    </li>
+	                   <li>
+	                    	<img src="/images/galleries/style/527/images/seal-aicpa.png">
+	                    </li>
+	                    <li>
+	                    	<img src="/images/galleries/style/527/images/seal-bbb.png">
+	                    </li>
+	                    <li>
+	                    	<img src="/images/galleries/style/527/images/seal-afn.png">
+	                    </li> -->
+	                </ul><!-- End styleSeals -->
+		        </div><!-- End stylePage -->
+		        <div id="styleFooter">
+		        	<div class="left">
+		            	<strong>Mathsdaq, Accountant, 1911 Old Sawmill Rd., Brandon, FL, 33510</strong><br>
+						Phone: <a href="tel:+727-560-9040">727-560-9040</a> <!--| Fax: 000-000-0000--> | 
+		                <a href="mailto:danasdaq477@aol.com ">Email: danasdaq477@aol.com </a>
+		            </div>
+		            <div class="right">
+		            	<a href="search.php">Search</a> | 
+		                <a href="sitemap.php">Site Map</a> | 
+		                <a href="privacy.php">Privacy Policy</a> | 
+		                <a href="disclaimer.php">Disclaimer</a><br>
+						© Mathsdaq, Tax & Accounting Firm, PC 2021		            </div>
+		            <div class="clearfloat">
+		            </div>
+		            <!--
+			        <ul id="styleSocial">
+			            <li>
+			            	<a href="http://www.linkedin.com" target="_blank">
+			                	<img src="/images/galleries/style/527/images/social-linkedin.png" />
+			                </a>
+			            </li>
+			            <li>
+			            	<a href="http://www.twitter.com" target="_blank">
+			                	<img src="/images/galleries/style/527/images/social-twitter.png" />
+			                </a>
+			            </li>
+			            <li>
+			            	<a href="http://www.facebook.com" target="_blank">
+			                	<img src="/images/galleries/style/527/images/social-facebook.png" />
+			                </a>
+			            </li>
+			        </ul>
+			        --><!-- End styleSocial -->
+		        </div><!-- End styleFooter -->
+	        </div><!-- End stylePageContainer -->
+	    </div><!-- End styleIeGlowContainer -->
+	</div><!-- End styleIeBkgContainer -->
+
+<!-- RSS Feed Reader Script -->
+<script src="/images/galleries/style/jquery/zrssfeed/jquery.zrssfeed.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+    var domain = 'http://Mathsdaq.com/';
+    if (domain.substr(domain.length-1) != "/") {
+        domain = domain + '/';
+    } 
+    $('#rssFeedReader').rssfeed(domain+'rssfeed.php', {
+        limit: 3  // Number of posts displayed
+    });
+});
+</script>
+
+<!-- Mobile Menu -->
+<script type="text/javascript">
+ // DOM ready
+ $(function() {
+   
+  // Create the dropdown base
+  $("<select />").appendTo("#nav-menu");
+  
+  // Create default option "Go to..."
+  $("<option />", {
+	 "selected": "selected",
+	 "value"   : "",
+	 "text"    : "Go to..."
+  }).appendTo("#nav-menu select");
+  
+  // Populate dropdown with menu items
+  $("#nav-menu a").each(function() {
+   var el = $(this);
+   $("<option />", {
+	   "value"   : el.attr("href"),
+	   "text"    : el.text()
+   }).appendTo("#nav-menu select");
+  });
+  
+   // To make dropdown actually work
+  $("#nav-menu select").change(function() {
+	window.location = $(this).find("option:selected").val();
+  });
+ 
+ });
+</script>
+
+<!-- SuperFish Menu -->
+<script type="text/javascript" src="/images/galleries/style/jquery/superfish/js/superfish.js"></script>
+<script src="/images/galleries/style/jquery/superfish/js/supersubs.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $('ul.menu').css('display', 'block');
+    $('ul.menu').supersubs({
+        minWidth: 9,
+        maxWidth: 50,
+        extraWidth: 1
+    })
+    $('ul.menu').superfish({
+        delay: 200,
+        animation: {height:'show', width:'show', opacity:'show'},
+        speed: 200,
+        disableHI: true
+    })
+});
+</script>
+
+<!-- Fancybox Script -->
+<script type="text/javascript" src="/images/galleries/style/jquery/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="/images/galleries/style/jquery/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $(".fancybox").fancybox({
+            'opacity'        : true,
+            'speedIn'        : 500,
+            'speedOut'        : 500,
+            'enableEscapeButton' : true,
+            onComplete: function() { //gives focus to input on Client Portal pop-up
+            $('.focus:last').focus();
+            }
+        });
+    });
+</script>
+
+
+
+<!-- Clear Form Script -->
+<script type="text/javascript">
+    function clearIt(field) {
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+    }
+    $(function(){
+    $('input').keydown(function(e){
+        if (e.keyCode == 13) {
+            $(this).parents('form').submit();
+            return false;
+        }
+    });
+    });
+</script>
+
+
+	
+<!-- Sub Nav -->
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#subNavTitle').text($('li.active a:eq(0)').text());
+	$('li.active li a').not('li.active li li a').clone().appendTo('#subNav');
+	if ( $('li.active').children().length <= 1 ) {
+    	$('#styleSidebar li:nth-child(1)').css('display','none');
+	}
+});
+</script>
+
+
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://analytics.mathsdaq.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 8199]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://analytics.mathsdaq.com/piwik.php?idsite=8199" style="border:0;" alt="Piwik Tracker" /></p></noscript>
+<!-- End Piwik Code -->
+
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div>
+</body>
+</html>
